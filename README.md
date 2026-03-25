@@ -39,6 +39,20 @@ This project was built as a response to a rejection due to lack of experience wi
 * Stores structured output in JSON
 
 ---
+## 📁 Files Included
+
+Currently, this repository includes workflow files for selected agents.
+
+Additional components (code, notebooks, and extended implementations) are available upon request.
+
+---
+
+## 📬 Contact
+
+For access to the complete project files or collaboration opportunities, feel free to reach out:
+
+📧 [amirthaganeshramesh@gmail.com](mailto:amirthaganeshramesh@gmail.com)
+--
 
 ## ⚙️ Tech Stack
 
