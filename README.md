@@ -47,7 +47,7 @@ Additional components (code, notebooks, and extended implementations) are availa
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For access to the complete project files or collaboration opportunities, feel free to reach out:
 
