@@ -10,7 +10,7 @@ This project was built as a response to a rejection due to lack of experience wi
 
 ## 🧠 Projects Included
 
-### 1️⃣ LinkedIn Content Generation Agent
+### 1️⃣ LinkedIn Content Generation Agent ( contact me for personalized agent/ this agent )
 
 * Generates professional LinkedIn posts from user-provided topics
 * Uses LLMs for structured, engaging content
