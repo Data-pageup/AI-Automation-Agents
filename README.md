@@ -4,9 +4,7 @@
 
 This repository contains a collection of AI-powered agents built to solve real-world problems using Large Language Models (LLMs), automation workflows, and data pipelines.
 
-This project was built as a response to a rejection due to lack of experience with AI agents — turning feedback into action within 2 weeks.
-
----
+This project was built as a response to a rejection due to lack of experience with AI agents.
 
 ## 🧠 Projects Included
 
