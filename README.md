@@ -1,86 +1,83 @@
 # AI Agents Collection
 
-## 📌 Overview
+## Overview
 
-This repository contains a collection of AI-powered agents built to solve real-world problems using Large Language Models (LLMs), automation workflows, and data pipelines.
+This repository contains a collection of AI-powered agents built using **n8n (workflow automation)**, Large Language Models (LLMs), and data pipelines to solve real-world problems.
 
-This project was built as a response to a rejection due to lack of experience with AI agents.
-
-## 🧠 Projects Included
-
-### 1️⃣ LinkedIn Content Generation Agent ( contact me for personalized agent/ this agent )
-
-* Generates professional LinkedIn posts from user-provided topics
-* Uses LLMs for structured, engaging content
+This project was created in response to a rejection due to limited experience with AI agents, turning that gap into practical, working systems.
 
 ---
 
-### 2️⃣ Data Exploration AI Agent
+## Projects Included
 
-* Accepts CSV datasets
-* Performs automated analysis
-* Sends insights via email
+### 1. LinkedIn Content Generation Agent  
+*(Contact me for access or customization)*
 
----
-
-### 3️⃣ RAG-based Movie Recommendation Chatbot
-
-* Uses Retrieval-Augmented Generation (RAG)
-* Provides personalized movie suggestions
+- Built using n8n workflows and LLM APIs  
+- Generates professional LinkedIn posts from user-provided topics  
+- Produces structured and engaging content  
 
 ---
 
-### 4️⃣ AI Web Scraper & Summarizer
+### 2. Data Exploration AI Agent
 
-* Scrapes news websites without RSS feeds
-* Summarizes articles using AI
-* Stores structured output in JSON
-
----
-## 📁 Files Included
-
-Currently, this repository includes workflow files for selected agents.
-
-Additional components (code, notebooks, and extended implementations) are available upon request.
+- Built using n8n with Python integrations  
+- Accepts CSV datasets  
+- Performs automated analysis  
+- Sends insights via email  
 
 ---
 
-##  Contact
+### 3. RAG-based Movie Recommendation Chatbot
 
-For access to the complete project files or collaboration opportunities, feel free to reach out:
-
-📧 [amirthaganeshramesh@gmail.com](mailto:amirthaganeshramesh@gmail.com)
---
-
-## ⚙️ Tech Stack
-
-* n8n (workflow automation)
-* OpenAI / LLM APIs
-* Python (optional components)
-* Google Drive / Email integrations
+- Built using n8n and Retrieval-Augmented Generation (RAG)  
+- Provides personalized movie suggestions  
+- Combines retrieval with LLM-based reasoning  
 
 ---
 
-## 🚀 Key Learnings
+### 4. AI Web Scraper & Summarizer
 
-* Building AI agents requires combining data pipelines + LLMs
-* Handling real-world constraints like rate limits and token limits
-* Importance of automation and integration
-
----
-
-## 💡 Motivation
-
-This project was built after being rejected from an internship due to lack of experience with AI agents.
-
-Instead of stopping, I decided to build and learn by doing.
+- Built using n8n automation workflows  
+- Scrapes news websites without RSS feeds  
+- Summarizes articles using LLMs  
+- Stores structured outputs in JSON format  
 
 ---
 
-##  Conclusion
+## Tech Stack
 
-This repository represents a transition from learning concepts to building real-world AI systems.
+- n8n (workflow orchestration)  
+- OpenAI / LLM APIs  
+- Python  
+- Google Drive and Email integrations  
+- Web scraping tools  
 
 ---
 
-Built with consistency, curiosity, and a bit of frustration 
+## Files Included
+
+This repository currently includes **n8n workflow files** for selected agents.
+
+Additional components (code, datasets, and extended implementations) are available upon request.
+
+---
+
+
+## Contact
+
+For full project access or collaboration:
+
+Email: amirthaganeshramesh@gmail.com  
+
+---
+
+## Conclusion
+
+This repository represents a transition from learning concepts to building real-world AI systems using n8n and LLMs.
+
+---
+
+<p align="center">
+Built with consistency and curiosity
+</p>
